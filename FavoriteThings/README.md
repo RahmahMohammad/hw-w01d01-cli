@@ -44,7 +44,7 @@ From your home directory, create a folder called `my-favorite-things`; you'll us
   - in `john-coltrane`, create a folder called `a-love-supreme`
   - Create a text file in both `john-coltrane` and `miles-davis` called `track-listing.txt` using one command >>> $touch ./john-coltrane/track-listing.txt ./miles-davis/track-listing.txt
 
-  - Rename both `track-listing.txt` files to be called `tracks.txt`
+  - Rename both `track-listing.txt` files to be called `tracks.txt`>>> $mv ./john-coltrane/track-listing.txt ./john-coltrane/tracks.txt | mv ./miles-davis/track-listing.txt  ./miles-davis/tracks.txt
 
 - Reorganize _everything_
 
