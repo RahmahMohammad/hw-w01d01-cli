@@ -55,5 +55,5 @@ From your home directory, create a folder called `my-favorite-things`; you'll us
 
 - Look through the additional resources and do the following without leaving your terminal:
 
-  - Look at the top and bottom 10 lines of each file
-  - Search for a string of text in a file
+  - Look at the top and bottom 10 lines of each file >>> tail -n 10 ./inferno OR >>> head -n 10 ./inferno
+  - Search for a string of text in a file >>> grep --color "hidden" inferno
