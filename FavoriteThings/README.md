@@ -42,7 +42,8 @@ From your home directory, create a folder called `my-favorite-things`; you'll us
   - In `jazz`, create folders `miles-davis` and `john-coltrane`
   - In `miles-davis`, create a folders called `kind-of-blue`
   - in `john-coltrane`, create a folder called `a-love-supreme`
-  - Create a text file in both `john-coltrane` and `miles-davis` called `track-listing.txt` using one command
+  - Create a text file in both `john-coltrane` and `miles-davis` called `track-listing.txt` using one command >>> $touch ./john-coltrane/track-listing.txt ./miles-davis/track-listing.txt
+
   - Rename both `track-listing.txt` files to be called `tracks.txt`
 
 - Reorganize _everything_
