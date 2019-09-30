@@ -32,7 +32,7 @@ Fundamentals, class, or that you find on your own.
 
 1. Rename "**ben_kenobi.txt**" to "**obi_wan.txt**".
 2. Copy "**storm_trooper.txt**" from "**death_star**" to "**tatooine**".
-3. Move "**luke.txt**" and "**obi_wan.txt**" to the "**millenium_falcon**".
+3. Move "**luke.txt**" and "**obi_wan.txt**" to the "**millenium_falcon**".>>> mv **storm_trooper.txt** **death_star** ../**tatooine**
 4. Move "**millenium_falcon**" out of "**tatooine**" and into "**galaxy_far_far_away**".
 5. Move "**millenium_falcon**" into "**death_star**".
 6. Move "**princess_leia.txt**" into the "**millenium_falcon**".
@@ -59,7 +59,7 @@ Already feeling comfortable with these commands and want an extra challenge? Try
 doing the following:
 
 - Try applying one command to multiple files at once.
-- Try applying one command to **all** files in a single directory (where necessery)
+- Try applying one command to **all** files in a single directory (where necessery) >>> $rm ./*
 - Try applying one command to **all files that match a pattern**.
 - Find and use command line shortcuts.
 - Try using a mix of absolute and relative paths.
