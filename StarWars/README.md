@@ -60,6 +60,6 @@ doing the following:
 
 - Try applying one command to multiple files at once.
 - Try applying one command to **all** files in a single directory (where necessery) >>> $rm ./*
-- Try applying one command to **all files that match a pattern**.
-- Find and use command line shortcuts.
+- Try applying one command to **all files that match a pattern**.>>> $ls [D]*
+- Find and use command line shortcuts.>>> $alias ~="cd ~"
 - Try using a mix of absolute and relative paths.
